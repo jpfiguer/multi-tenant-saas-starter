@@ -51,7 +51,7 @@ flowchart LR
 ```
 multi-tenant-saas-starter/
 ├── README.md
-├── LICENSE (AGPL-3.0)
+├── LICENSE (MIT)
 ├── package.json
 ├── tsconfig.json
 ├── drizzle.config.ts
@@ -111,4 +111,4 @@ Ver `src/server/trpc.ts` para la implementacion del middleware y
 
 ## Licencia
 
-AGPL-3.0.
+MIT — ver [LICENSE](LICENSE).
